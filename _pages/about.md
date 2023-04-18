@@ -6,17 +6,23 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-  - /~tdear
-  - /~tdear/
 ---
+Hi, آداب and سلام! I am Tazbia Fatima, a Journalist and Computer Scientist.
 
-Welcome to my homepage! I am a Computational Journalist and Computer Scientist. in the [Computer Science Department](http://www.cs.columbia.edu) of the [School of Engineering and Applied Science](https://engineering.columbia.edu/) (SEAS) at [Columbia University](https://www.columbia.edu/). This semester (Spring 2023), I am teaching Computational Linear Algebra (COMS 3251) and Artificial Intelligence (COMS 4701). I am also an [academic advisor](http://www.cs.columbia.edu/education/undergraduate/advisors/) for [Columbia College](https://www.college.columbia.edu/) juniors majoring in CS; please feel free to reach out by email for an appointment.
+As an Engineer and Computer Scientist, I primarily focus on engineering data tools and machine learning for journalistic vision and research projects. I've been dabbling with deep learning and understanding AI's role in the world. Still looking to find the best wa
 
-As a lecturer, my energies are primarily focused on teaching and refining my courses, advising undergraduate students, and contributing to various education programs in the school. I am the faculty director of the [CS@CU Bridge to MS Program](https://www.cs.columbia.edu/ms-bridge/) in Computer Science, and I am also the faculty director of a new online [Artificial Intelligence executive education program](https://ai.engineering.columbia.edu/) in Columbia Engineering.
+As a Journalist, I primarily focus on data-integrated and computational stories, using my engineering skills to bolster the evidences and reporting. 
+I absolutely enjoy the rush of interviewing people and forming the network map in my head of all the angles in a story.
 
-I also regularly advise a small number of undergraduate and MS students on independent-study or research projects. These projects have ranged from applying deep reinforcement learning techniques to robot locomotion to developing lesson plans and assessments for potential new courses. Other activities include having been a faculty advisor for the [NASA Robotics Challenge](https://columbiaspace.org/missions/mission-nasa-src/) team in [Columbia Space Initiative](https://columbiaspace.org/) in Spring 2020 and faculty advisor for [ADI Labs](https://adicu.com/labs/) in Spring 2019.
+For my Master's Project, I investigated the business and perils of immigration routes from India and the presence of niche community on YouTube, meshing the non-fiction narrative structure with data analysis as a representation of my two professional worlds.
 
-**Important**: If you are not a Columbia student, please do not contact me about research opportunities. I do not have the resources to support or sponsor students from other institutions. Furthermore, even if you *are* a Columbia student, I prefer that you take a course with me before reaching out about possible projects. Unlike many faculty, I don't have a list of ongoing projects; most of my students come up with project ideas on their own and mainly look to me for feedback and suggestions rather than a specific direction.
+From my time at Columbia, I've been keenly interested in research. These projects range from experimenting with new exploratory data visualizations, analyzing the color scheme of paintings at the MET to finding causations for extreme climate events and studying the misinformation landscape of media. 
+
+I absolutely enjoy the project design and management process. 
 
 ## Background
-My hometown is San Francisco, CA, USA. Depending on how you count, I am a first- or second-generation immigrant; my parents both immigrated from Guangdong, China. I lived in the Bay Area until I received my B.S. from [UC Berkeley](https://www.berkeley.edu/) in [EECS](https://eecs.berkeley.edu/) in 2012. I subsequently moved to Pittsburgh, PA, to study in [The Robotics Institute](https://www.ri.cmu.edu) at [Carnegie Mellon University](https://www.cmu.edu/), from which I received my M.S. in 2015 and Ph.D. in 2018 under the advisement of [Dr. Howie Choset](http://www.cs.cmu.edu/~choset/).
+My hometown is Hyderabad, India. I lived in the city of pearls all my life until I moved to New York, US in August 2021 to pursue the [Dual MS in Computer Science and Journalism](https://journalism.columbia.edu/journalism-computer-science) at [Columbia University](https://www.columbia.edu). 
+I speak English and Urdu with native proficiency and can read Arabic. 
+When I'm
+
+
