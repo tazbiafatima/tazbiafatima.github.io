@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : @tazbia_fatima
+  username               : "tazbia-fatima"
 facebook:
   username               :
   app_id                 :
@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Tazbia Fatima"
-  avatar           : "TLPS-5286-2.jpg"
+  avatar           : "Tazbia_Photo.jpg"
   bio              : "Student in Computer Science at Columbia University"
   location         : "New York, New York, USA"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=-YO-uh8AAAAJ&hl=en"
+  googlescholar    : 
   email            : "tazbia.fatima@columbia.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "https://github.com/tazbiafatima"
   google_plus      :
   keybase          :
   instagram        : 
