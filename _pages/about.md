@@ -24,6 +24,6 @@ I absolutely enjoy the project design and management process.
 My hometown is Hyderabad, India. I lived in the city of pearls all my life until I moved to New York, US in August 2021 to pursue the [Dual MS in Computer Science and Journalism](https://journalism.columbia.edu/journalism-computer-science) at [Columbia University](https://www.columbia.edu). 
 I speak English and Urdu with native proficiency and can read Arabic.
 
-When I'm not working, I could be found on a swing in the park (or a swing in my home in India), watching documentaries or reading long-form non-fiction. I love my nieces, baking and airports! In another life, I think I'd make a very fine personal shopper - to my friends and family and in this life, I hope to write non-fiction narrative books and maybe engineer a tool that helps humans on the side. 
+When I'm not working, I could be found on a swing in the park (or a swing in my home in India), watching documentaries or reading long-form non-fiction. I love my family(friends), chai, beaches and airports! In a parallel life, I think I'd make a very fine personal shopper - to my friends and family and in this life, I hope to write non-fiction narrative books to tell the stories of people and engineer a tool that helps humans through generations. 
 
 
